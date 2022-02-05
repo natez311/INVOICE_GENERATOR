@@ -1,4 +1,3 @@
-# INVOICE_GENERATOR
 Invoice Generator by Nate
 
 To create an invoice, input your settings in settings.py then run main.py.  
